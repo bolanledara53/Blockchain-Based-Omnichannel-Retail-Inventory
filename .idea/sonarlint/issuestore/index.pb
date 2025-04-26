@@ -11,3 +11,5 @@ Q
 !contracts/inventory-tracking.clar,3/3/33ffca80094df256badb8c0edc46c2327b15bafd
 S
 #contracts/product-registration.clar,8/6/8657cae640c8ecd6bb94fb5ec8a3fe40377012de
+Q
+!contracts/store-verification.clar,5/c/5c0190a4f14daac81105a386781f17ae89fbf215
