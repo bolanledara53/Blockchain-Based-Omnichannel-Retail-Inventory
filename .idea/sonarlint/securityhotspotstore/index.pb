@@ -9,3 +9,5 @@ H
 tests/fulfilment.test.ts,3/8/38beac4dd9d2a05d71aa178688b25f504be1b68d
 Q
 !contracts/inventory-tracking.clar,3/3/33ffca80094df256badb8c0edc46c2327b15bafd
+S
+#contracts/product-registration.clar,8/6/8657cae640c8ecd6bb94fb5ec8a3fe40377012de
