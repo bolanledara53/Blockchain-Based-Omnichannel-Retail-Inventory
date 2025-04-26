@@ -7,3 +7,5 @@ I
 contracts/fulfilment.clar,1/2/12d2ff8ef3f9fa8b7b8d8103c0a0e4431327e794
 H
 tests/fulfilment.test.ts,3/8/38beac4dd9d2a05d71aa178688b25f504be1b68d
+Q
+!contracts/inventory-tracking.clar,3/3/33ffca80094df256badb8c0edc46c2327b15bafd
